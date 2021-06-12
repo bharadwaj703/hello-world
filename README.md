@@ -1,5 +1,7 @@
 # hello-world
 
 hi humans!
-These is my first [repository](https://meet.google.com/gfu-atky-wtb)
+These is my first repository
 i will add more..
+[ramesh chandra
+](https://github.com/rameshchandra22)
