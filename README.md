@@ -1,6 +1,6 @@
 # hello-world
 
-hi humans!
+Hi humans!
 These is my first repository
 i will add more..
 [ramesh chandra
